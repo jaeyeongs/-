@@ -28,13 +28,13 @@ wind_speed : 풍속, humidity : 습도, low_temp : 최저기온, high_temp : 최
 
 ### (1) 이상치 확인
 
-![image](https://user-images.githubusercontent.com/87981867/140031749-33fb6801-9fad-4445-a7ff-3f05420af8a6.png)
+![image](https://user-images.githubusercontent.com/87981867/140032049-d6570ab3-590b-43ab-8a3d-762d5107aadc.png)
 
 이상치는 없는 것으로 보임
 
 ### (2) 유의미하지 않는 변수
 
-![image](https://user-images.githubusercontent.com/87981867/140030379-666796a5-7ecc-4f9b-9fc4-a470ef524b7e.png)
+![image](https://user-images.githubusercontent.com/87981867/140031749-33fb6801-9fad-4445-a7ff-3f05420af8a6.png)
 
 wind_direction 풍향 변수 확인
 

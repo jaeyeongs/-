@@ -28,7 +28,7 @@ wind_speed : 풍속, humidity : 습도, low_temp : 최저기온, high_temp : 최
 
 ### (1) 이상치 확인
 
-![image](https://user-images.githubusercontent.com/87981867/140030038-f7f7c30a-5a75-42d0-89a9-cd9c06d5d500.png)
+![image](https://user-images.githubusercontent.com/87981867/140031749-33fb6801-9fad-4445-a7ff-3f05420af8a6.png)
 
 이상치는 없는 것으로 보임
 
@@ -56,13 +56,13 @@ precipitation_form 변수는 하늘 상태를 나타내는 sky_condition 변수�
 
 날씨가 흐린것 자체가 따릉이 대여량에 부정적인 영향을 받는다 생각하기 때문에 sky_condition 변수는 사용
 
-![image](https://user-images.githubusercontent.com/87981867/140030780-07e799d1-3594-4550-8320-ba30203e5569.png)
+![image](https://user-images.githubusercontent.com/87981867/140031832-dcf196b6-a768-4436-8c3b-4f1ac43c1619.png)
 
 연도별 따릉이 이용자수
 
 시간이 지날수록 이용자수가 증가하는 것을 보아 연도 변수는 매우 중요
 
-![image](https://user-images.githubusercontent.com/87981867/140030856-47cc445f-b78a-493e-b250-bfba1273e9e6.png)
+![image](https://user-images.githubusercontent.com/87981867/140031893-ccda909b-c6a0-4d7a-973f-c023cba1e60a.png)
 
 요일별 따릉이 이용자수를 나타내는 그래프 (weekday 변수는 0은 월요일, 6은 일요일을 나타내는 요일 변수)
 
